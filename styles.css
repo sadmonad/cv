@@ -1,0 +1,8 @@
+.center {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+
